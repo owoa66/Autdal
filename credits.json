@@ -39,6 +39,11 @@
             "name": "မောင်လူငယ်",
             "seller_id": "57653347713514e6",
             "credit": 5
+        },
+        {
+            "name": "RESELLER RS",
+            "seller_id": "860b95ea7ebd1d4a",
+            "credit": 5
         }
     ]
 }
