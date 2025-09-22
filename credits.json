@@ -44,6 +44,11 @@
             "name": "RESELLER RS",
             "seller_id": "860b95ea7ebd1d4a",
             "credit": 4
+        },
+        {
+            "name": "King",
+            "seller_id": "981552b1a21e90d0",
+            "credit": 5
         }
     ]
 }
