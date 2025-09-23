@@ -54,6 +54,11 @@
             "name": "Wine Chit",
             "seller_id": "d949cc63b713af40",
             "credit": 5
+        },
+        {
+            "name": "Qwam",
+            "seller_id": "61a42987610de23c",
+            "credit": 5
         }
     ]
 }
