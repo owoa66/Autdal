@@ -49,6 +49,11 @@
             "name": "King",
             "seller_id": "981552b1a21e90d0",
             "credit": 3
+        },
+        {
+            "name": "Wine Chit",
+            "seller_id": "d949cc63b713af40",
+            "credit": 5
         }
     ]
 }
