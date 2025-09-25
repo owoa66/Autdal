@@ -64,6 +64,11 @@
             "name": "Ko Min",
             "seller_id": "0418168ef5d5c9be",
             "credit": 0
+        },
+        {
+            "name": "Pho",
+            "seller_id": "632433d9535e7fa8",
+            "credit": 5
         }
     ]
 }
