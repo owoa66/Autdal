@@ -79,6 +79,11 @@
             "name": "Ko Aung",
             "seller_id": "6d2dbdad98563146",
             "credit": 3
+        },
+        {
+            "name": "ထက်ရှား",
+            "seller_id": "7f8ced23e7c443e5",
+            "credit": 5
         }
     ]
 }
