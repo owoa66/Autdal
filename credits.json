@@ -84,6 +84,11 @@
             "name": "Daddy",
             "seller_id": "7b0bbf75b9915ae7",
             "credit": 3
+        },
+        {
+            "name": "Chit Soe",
+            "seller_id": "e8f9edc8bc6a74bc",
+            "credit": 5
         }
     ]
 }
