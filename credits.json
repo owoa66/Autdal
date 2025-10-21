@@ -94,6 +94,11 @@
             "name": "Super Star",
             "seller_id": "3c7301179543fc1a",
             "credit": 5
+        },
+        {
+            "name": "May",
+            "seller_id": "c6e4fd4df17eab6b",
+            "credit": 3
         }
     ]
 }
