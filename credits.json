@@ -94,6 +94,11 @@
             "name": "JULY",
             "seller_id": "2f6e3afa0252439a",
             "credit": 5
+        },
+        {
+            "name": "Phon Myat",
+            "seller_id": "58a044452b3ed4b7",
+            "credit": 3
         }
     ]
 }
