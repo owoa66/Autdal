@@ -1,1 +1,84 @@
-{"allowedseller":[{"name":"dev test","seller_id":"9d733b74c3afc942","credit":983},{"name":"PCLOD RS","seller_id":"a270546af9d94c5a","credit":0},{"name":"DZDZ RS","seller_id":"5c2e1b0fdda7c216","credit":0},{"name":"RESELLER RS","seller_id":"860b95ea7ebd1d4a","credit":4},{"name":"King","seller_id":"981552b1a21e90d0","credit":0},{"name":"Wine Chit","seller_id":"d949cc63b713af40","credit":1},{"name":"Ko Min","seller_id":"0418168ef5d5c9be","credit":1},{"name":"Pho","seller_id":"632433d9535e7fa8","credit":0},{"name":"Zin Lay","seller_id":"d7899cd40f661cd9","credit":1},{"name":"Ko Aung","seller_id":"6d2dbdad98563146","credit":4},{"name":"QWAM","seller_id":"3792d1fba60fb7ab","credit":0},{"name":"Daddy","seller_id":"7b0bbf75b9915ae7","credit":2},{"name":"Super Star","seller_id":"3c7301179543fc1a","credit":4},{"name":"May","seller_id":"c6e4fd4df17eab6b","credit":0},{"name":"JULY","seller_id":"2f6e3afa0252439a","credit":5},{"name":"Phon Myat","seller_id":"58a044452b3ed4b7","credit":2}]}
+{
+    "allowedseller": [
+        {
+            "name": "dev test",
+            "seller_id": "9d733b74c3afc942",
+            "credit": 983
+        },
+        {
+            "name": "PCLOD RS",
+            "seller_id": "a270546af9d94c5a",
+            "credit": 0
+        },
+        {
+            "name": "DZDZ RS",
+            "seller_id": "5c2e1b0fdda7c216",
+            "credit": 0
+        },
+        {
+            "name": "RESELLER RS",
+            "seller_id": "860b95ea7ebd1d4a",
+            "credit": 3
+        },
+        {
+            "name": "King",
+            "seller_id": "981552b1a21e90d0",
+            "credit": 0
+        },
+        {
+            "name": "Wine Chit",
+            "seller_id": "d949cc63b713af40",
+            "credit": 1
+        },
+        {
+            "name": "Ko Min",
+            "seller_id": "0418168ef5d5c9be",
+            "credit": 1
+        },
+        {
+            "name": "Pho",
+            "seller_id": "632433d9535e7fa8",
+            "credit": 0
+        },
+        {
+            "name": "Zin Lay",
+            "seller_id": "d7899cd40f661cd9",
+            "credit": 1
+        },
+        {
+            "name": "Ko Aung",
+            "seller_id": "6d2dbdad98563146",
+            "credit": 4
+        },
+        {
+            "name": "QWAM",
+            "seller_id": "3792d1fba60fb7ab",
+            "credit": 0
+        },
+        {
+            "name": "Daddy",
+            "seller_id": "7b0bbf75b9915ae7",
+            "credit": 2
+        },
+        {
+            "name": "Super Star",
+            "seller_id": "3c7301179543fc1a",
+            "credit": 4
+        },
+        {
+            "name": "May",
+            "seller_id": "c6e4fd4df17eab6b",
+            "credit": 0
+        },
+        {
+            "name": "JULY",
+            "seller_id": "2f6e3afa0252439a",
+            "credit": 5
+        },
+        {
+            "name": "Phon Myat",
+            "seller_id": "58a044452b3ed4b7",
+            "credit": 2
+        }
+    ]
+}
