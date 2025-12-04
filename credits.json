@@ -79,6 +79,11 @@
             "name": "Phon Myat",
             "seller_id": "58a044452b3ed4b7",
             "credit": 2
+        },
+        {
+            "name": "TTAK",
+            "seller_id": "037f06f08032986d",
+            "credit": 5
         }
     ]
 }
