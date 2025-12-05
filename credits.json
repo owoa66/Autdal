@@ -99,6 +99,11 @@
             "name": "TTAK RESELLER V2",
             "seller_id": "1d847b9ebde7d1f2",
             "credit": 1
+        },
+        {
+            "name": "3PO",
+            "seller_id": "2ccf73d95eb23eaf",
+            "credit": 5
         }
     ]
 }
