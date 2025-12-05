@@ -94,6 +94,11 @@
             "name": "dev",
             "seller_id": "759492022d55c9d1",
             "credit": 2000
+        },
+        {
+            "name": "FOR 2",
+            "seller_id": "1d847b9ebde7d1f2",
+            "credit": 5
         }
     ]
 }
