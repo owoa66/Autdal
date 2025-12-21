@@ -79,6 +79,11 @@
             "name": "3PO",
             "seller_id": "2ccf73d95eb23eaf",
             "credit": 2
+        },
+        {
+            "name": "PH",
+            "seller_id": "632433d9535e7fa8",
+            "credit": 5
         }
     ]
 }
